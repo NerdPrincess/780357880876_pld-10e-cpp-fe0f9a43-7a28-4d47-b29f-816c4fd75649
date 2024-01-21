@@ -20,14 +20,11 @@
         "extensions.showRecommendationsOnlyOnDemand": true,
         "git.openRepositoryInParentFolders": false
   },
-  "forwardPorts": [3005, 6080],
+  "forwardPorts": [3005],
   "portsAttributes": {
     "3005": {
       "label": "cengage-companion",
       "onAutoForward": "silent"
-    },
-    "6080": {
-      "label": "desktop"
     }
   }
 }
